@@ -2,7 +2,7 @@ module F1 where
 import Data.Char
 import Data.Eq
 import Data.String
-import Data.List.Split
+import Data.List
 {- functionen =  fib
 om n är 0 eller 1 retunera n
 annars gör recursiv functin  med n-1 plus finctionen n-2
